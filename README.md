@@ -15,3 +15,7 @@ curl localhost:8080/orders \
   -H "content-type: application/json" \
   -d '{"lineItems": [{"quantity": 2, "product": 1}]}'
 ```
+
+
+### example
+- https://spring.io/projects/spring-modulith#samples
